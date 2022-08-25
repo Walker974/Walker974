@@ -1,7 +1,7 @@
-Bienvenue Sur Mon Github
+Welcome To My Github
 
- - Ici vous pouvez retrouvez quelques créations à moi.
+- Here you can find some creations of mine.
 
- - Tous les scripts présents sur ce GitHub sont libres d'utilisation. Néanmoins il est strictement interdit de les vendre et/ou d'en faire un usage purement commercial.
+- All scripts on this GitHub are free to use. However, it is strictly forbidden to sell them and/or to make purely commercial use of them.
 
- - Pour me contacter , vous pouvez passer par mon discord : https://discord.gg/rpBSNP2NBg
+- To contact me, you can go through my discord: https://discord.gg/rpBSNP2NBg
