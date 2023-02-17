@@ -1,7 +1,5 @@
-Welcome To My Github
 
 <h1 align="center">Walker974</h1>
-
 
 ## 💼 À propos de moi
 
