@@ -4,7 +4,7 @@
 ## 💼 About me
 
 - Student
-- Developer of FlashLand RP -Fivem
+- Developer of FlashLand RP - Fivem
 - To contact me, you can go through my discord: https://discord.gg/rpBSNP2NBg
 
 ## 💻 Used Languages :
