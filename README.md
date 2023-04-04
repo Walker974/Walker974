@@ -1,9 +1,10 @@
 
 <h1 align="center">Walker974</h1>
 
-## 💼 À propos de moi
+## 💼 About me
 
 - Student
+- Developer of FlashLand RP -Fivem
 - To contact me, you can go through my discord: https://discord.gg/rpBSNP2NBg
 
 ## 💻 Used Languages :
