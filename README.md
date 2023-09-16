@@ -3,7 +3,7 @@
 
 ## 💼 About me
 
-- Student : Al Akhawayn University In Ifrane - Computer Science
+- Student : Al Akhawayn University In Ifrane - Bachelor of Computer Science
 - I worked as Lead Developer for FlashLand RP - Fivem
 - To contact me, you can go through my discord: https://discord.gg/rpBSNP2NBg
 
