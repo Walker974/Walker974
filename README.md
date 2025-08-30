@@ -6,7 +6,7 @@
 - Student : Al Akhawayn University In Ifrane - Bachelor of Computer Science
 - I am working as Part Time Software Developer at NeoCedrus
 - I worked as Lead Developer for FlashLand RP - Fivem
-- To contact me, you can go through my discord: https://discord.gg/DDdBpu4HMG)
+- To contact me, you can go through my discord: https://discord.gg/DDdBpu4HMG
 
 ## 💻 Used Languages :
 
